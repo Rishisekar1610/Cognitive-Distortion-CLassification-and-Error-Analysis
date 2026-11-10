@@ -1,0 +1,7 @@
+model_a,model_b,pearson_offdiag,top10_overlap
+mentalbert_ce,roberta_ce,0.746,7
+mentalbert_ce,deberta_ce,0.704,7
+mentalbert_ce,mentalbert_focal,0.799,8
+roberta_ce,deberta_ce,0.719,6
+roberta_ce,mentalbert_focal,0.79,7
+deberta_ce,mentalbert_focal,0.783,6
